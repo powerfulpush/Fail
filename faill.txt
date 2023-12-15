@@ -1,0 +1,7 @@
+<span class="tag">&lt;/description&gt;</span>
+    <span class="tag">&lt;sales_notes&gt;</span><span class="pln">предоплата</span><span class="tag">&lt;/sales_notes&gt;</span>
+    <span class="tag">&lt;param</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"Тип УЗО"</span><span class="tag">&gt;</span><span class="pln">Выключатель</span><span class="tag">&lt;/param&gt;</span>
+    <span class="tag">&lt;param</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"Номинальный ток"</span> <span class="atn">unit</span><span class="pun">=</span><span class="atv">"А"</span><span class="tag">&gt;</span><span class="pln">16.0</span><span class="tag">&lt;/param&gt;</span>
+    <span class="tag">&lt;param</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"Степень защиты IP"</span><span class="tag">&gt;</span><span class="pln">20</span><span class="tag">&lt;/param&gt;</span>
+    <span class="tag">&lt;param</span> <span class="atn">name</span><span class="pun">=</span><span class="atv">"Тип монтажа"</span><span class="tag">&gt;</span><span class="pln">На DIN рейку</span><span class="tag">&lt;/param&gt;</span>
+  <span class="tag">&lt;/offer&gt;</span>
